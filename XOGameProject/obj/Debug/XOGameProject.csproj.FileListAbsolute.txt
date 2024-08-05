@@ -1,0 +1,10 @@
+C:\Users\fahad\Documents\C#\XOGameProject\bin\Debug\XOGameProject.exe.config
+C:\Users\fahad\Documents\C#\XOGameProject\bin\Debug\XOGameProject.exe
+C:\Users\fahad\Documents\C#\XOGameProject\bin\Debug\XOGameProject.pdb
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.csproj.AssemblyReference.cache
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.Properties.Resources.resources
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.csproj.GenerateResource.cache
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.csproj.CoreCompileInputs.cache
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.exe
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.pdb
+C:\Users\fahad\Documents\C#\XOGameProject\obj\Debug\XOGameProject.XOGAME.resources
